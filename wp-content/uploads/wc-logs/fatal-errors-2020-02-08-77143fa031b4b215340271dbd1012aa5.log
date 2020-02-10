@@ -1,0 +1,26 @@
+2020-02-08T02:41:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\ekitatanam\wp-admin\admin-footer.php on line 10
+
+2020-02-08T03:25:45+00:00 CRITICAL Out of memory (allocated 29360128) (tried to allocate 40960 bytes) in D:\xampp\htdocs\ekitatanam\wp-content\plugins\yith-woocommerce-wishlist\plugin-fw\lib\yit-plugin-common.php on line 25
+
+2020-02-08T08:57:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\ekitatanam\wp-includes\class-wp-theme.php on line 1194
+
+2020-02-08T08:57:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\ekitatanam\wp-content\plugins\affiliate-mlm-party-plan\includes\sb.php on line 2396
+
+2020-02-08T09:19:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\ekitatanam\wp-includes\wp-db.php on line 2030
+
+2020-02-08T09:19:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\ekitatanam\wp-content\plugins\affiliate-mlm-party-plan\includes\sb.php on line 2396
+
+2020-02-08T11:49:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\ekitatanam\wp-includes\class-wp-hook.php on line 87
+
+2020-02-08T11:49:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\ekitatanam\wp-content\plugins\affiliate-mlm-party-plan\includes\sb.php on line 2396
+
+2020-02-08T11:49:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\ekitatanam\wp-content\plugins\affiliate-mlm-party-plan\includes\sb.php on line 2396
+
+2020-02-08T12:07:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\ekitatanam\wp-admin\includes\plugin.php on line 304
+
+2020-02-08T12:07:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\ekitatanam\wp-content\plugins\affiliate-mlm-party-plan\includes\sb.php on line 2396
+
+2020-02-08T12:08:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\ekitatanam\wp-content\themes\flatsome\inc\builder\core\server\helpers\breakpoints.php on line 3
+
+2020-02-08T12:08:58+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\xampp\htdocs\ekitatanam\wp-includes\class-wp-editor.php on line 1794
+
